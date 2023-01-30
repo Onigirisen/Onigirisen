@@ -49,7 +49,7 @@
 
 ## 📝 About Me
 
-I am a software engineer with a passion for problem-solving and delivering high-quality, scalable and maintainable solutions. I have expertise in technologies such as React, Redux, Javascript, Ruby, Ruby on Rails, Express.js, PostgreSQL, MongoDB, Node.js, Mongoose, HTML, CSS, AWS S3, Webpack, Git, Heroku, and Canvas.
+I am a software engineer with a passion for problem-solving and delivering high-quality, scalable and maintainable solutions. I have experience in technologies such as React, Redux, Javascript, Ruby, Ruby on Rails, Express.js, PostgreSQL, MongoDB, Node.js, Mongoose, HTML, CSS, AWS S3, Webpack, Git, Heroku, and Canvas.
 
 
 ---
