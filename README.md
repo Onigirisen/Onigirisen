@@ -70,7 +70,7 @@ These interests bring balance to my life and help me approach problems with a fr
 ## 💻 Projects
 
 - [Opus](https://opus.onrender.com/): Opus is a web application where users can show off their creativity by creating their own books, whether they are    stories, poems, or daily logs the user has full autonomy as to the content as well as whether to make public or private their works.
-- [Ryamazon](http://ryamazon.herokuapp.com/): Developed an e-commerce website modeled after Amazon using React for the front-end and Ruby on Rails for the back-end.
+- [Ryamazon](http://ryamazon.herokuapp.com/): Ryamazon is an e-commerce website modeled after Amazon using React for the front-end and Ruby on Rails for the back-end.
 <!-- - [Project 3 Name](Project 3 Link): Description of Project 3 -->
 
 ---
