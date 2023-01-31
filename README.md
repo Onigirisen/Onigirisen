@@ -78,5 +78,5 @@ These interests bring balance to my life and help me approach problems with a fr
 
 ## 🤝 Reach Out
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ryan-kok-6ab427b6/) or visit my [Portfolio Site](https://ryankok-portfoliosite.onrender.com/).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ryan-kok-6ab427b6/) or visit my [Portfolio Site](https://onigirisen.github.io/).
 
