@@ -4,17 +4,19 @@
   <p align="center">💻 Software Engineer | 🚀 Full-Stack Development | 💡 Problem Solver | 😺 Cat Dad</p>
   <p align="center">
     <a href="https://github.com/onigirisen">
-      <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github"/>
+      <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/ryan-kok-6ab427b6/">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin"/>
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
     </a>
     <a href="mailto:ryanroykok@gmail.com">
-      <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Mail.ru"/>
+      <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Mail.ru&logoColor=white"/>
     </a>
-    <img src="https://img.shields.io/badge/-Traveler-9B4DCA?style=flat&logo=Adobe-XD"/>
-    <img src="https://img.shields.io/badge/-Foodie-F7E319?style=flat&logo=Canva"/>
-    <img src="https://img.shields.io/badge/-Gamer-6441A4?style=flat&logo=Playstation"/>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/-Traveler-9B4DCA?style=for-the-badge&logo=Adobe-XD&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Foodie-F7E319?style=for-the-badge&logo=Canva&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Gamer-6441A4?style=for-the-badge&logo=Playstation&logoColor=white"/>
   </p>
 </p>
 
@@ -85,3 +87,11 @@ These interests bring balance to my life and help me approach problems with a fr
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ryan-kok-6ab427b6/) or visit my [Portfolio Site](https://onigirisen.github.io/).
 
+<!-- ---
+
+## :gear: GitHub Stats 
+<p align="center"><img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=Onigirisen&theme=cobalt" /></p>
+
+<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Onigirisen&theme=default"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Onigirisen&layout=compact" />
+</p> -->
