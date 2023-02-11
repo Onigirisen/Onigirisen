@@ -3,13 +3,13 @@
   <h3 align="center">Ryan Kok</h3>
   <p align="center">💻 Software Engineer | 🚀 Full-Stack Development | 💡 Problem Solver | 😺 Cat Dad</p>
   <p align="center">
-    <a href="https://github.com/onigirisen" target="blank_">
+    <a href="https://github.com/onigirisen" target="_blank">
       <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/ryan-kok-6ab427b6/" target="blank_">
+    <a href="https://www.linkedin.com/in/ryan-kok-6ab427b6/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
     </a>
-    <a href="mailto:ryanroykok@gmail.com" target="blank_">
+    <a href="mailto:ryanroykok@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Mail.ru&logoColor=white"/>
     </a>
   </p>
