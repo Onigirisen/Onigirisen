@@ -25,22 +25,26 @@
 ## Tech Stack 💻
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React"/>
-  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux"/>
-  <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript"/>
-  <img src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby"/>
-  <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=Ruby"/>
-  <img src="https://img.shields.io/badge/-Express.js-191919?style=flat-square&logo=Node.js"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js"/>
-  <img src="https://img.shields.io/badge/-Mongoose-12A69C?style=flat-square&logo=MongoDB"/>
-  <img src="https://img.shields.io/badge/-HTML,%20CSS-264653?style=flat-square&logo=HTML5"/>
-  <img src="https://img.shields.io/badge/-AWS%20S3-232F3E?style=flat-square&logo=Amazon%20AWS"/>
-  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git"/>
-  <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=Heroku"/>
-  <img src="https://img.shields.io/badge/-Canvas-3B3B3B?style=flat-square&logo=Canvas"/>
+<img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
+<img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/>
 </p>
 
 
