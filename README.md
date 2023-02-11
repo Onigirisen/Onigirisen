@@ -45,6 +45,7 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/>
+<img src="https://img.shields.io/badge/Canvas-brightgreen?style=for-the-badge&logo=canvas&logoColor=white"/>
 </p>
 
 
