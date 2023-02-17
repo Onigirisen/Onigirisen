@@ -97,4 +97,4 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ryan-kok-
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Onigirisen&layout=compact&theme=dracula&count_private=true&hide_border=true" />
 </p>
 
-<p align="center"><img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=onigirisen&theme=horizon&border_radius=5.2&mode=weekly&count_private=true" /></p>
+<p align="center"><img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=onigirisen&theme=horizon&border_radius=5.2&count_private=true" /></p>
