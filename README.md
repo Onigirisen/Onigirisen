@@ -63,7 +63,7 @@ I am a software engineer with a passion for problem-solving and delivering high-
 ---
 
 
-## Beyond Code 🎮🛫🍔
+## Beyond the Code 🎮🛫🍔
 
 I'm not just a coder. I'm also a 🎮 gamer, 🛫 traveler, and 🍔 foodie who loves to explore new things and continuously learn and grow.
 - 🎮 Gamer: I love gaming in my free time and enjoy trying out new games.
