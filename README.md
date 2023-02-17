@@ -93,8 +93,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ryan-kok-
 ## :gear: GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Onigirisen&theme=dracula&count_private=true&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Onigirisen&layout=compact&theme=dracula&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Onigirisen&theme=dracula&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Onigirisen&layout=compact&theme=dracula&&hide_border=true" />
 </p>
 
-<p align="center"><img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=onigirisen&theme=horizon&border_radius=5.2&count_private=true" /></p>
+<p align="center"><img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=onigirisen&theme=horizon&border_radius=5.2&" /></p>
