@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/-Foodie-F7E319?style=for-the-badge&logo=Canva&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Gamer-6441A4?style=for-the-badge&logo=Playstation&logoColor=white"/>
   </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=onigirisen&label=Profile%20views&color=0e75b6&style=flat" alt="onigirisen" /> </p>
 </p>
 
 
@@ -86,11 +87,11 @@ These interests bring balance to my life and help me approach problems with a fr
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ryan-kok-6ab427b6/) or visit my [Portfolio Site](https://onigirisen.github.io/).
 
-<!-- ---
+---
 
 ## :gear: GitHub Stats 
 <p align="center"><img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=Onigirisen&theme=cobalt" /></p>
 
 <p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Onigirisen&theme=default"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Onigirisen&layout=compact" />
-</p> -->
+</p>
