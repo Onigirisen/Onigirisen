@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4E03AQEuAD6vBclILw/profile-displayphoto-shrink_200_200/0/1675100936200?e=1680739200&v=beta&t=py-luxgKZbZ3RdPr65hMh5kEDzSOSUCq6Xj1S_lj-oU" width="150"/>
+<!--   <img src="https://media.licdn.com/dms/image/D4E03AQEuAD6vBclILw/profile-displayphoto-shrink_200_200/0/1675100936200?e=1680739200&v=beta&t=py-luxgKZbZ3RdPr65hMh5kEDzSOSUCq6Xj1S_lj-oU" width="150"/> -->
 <!--   <h3 align="center">Ryan Kok</h3> -->
   <div align="center" > <img src="https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&size=45&pause=1000&&color=F7EB33&background=51FFB700&center=true&vCenter=true&lines=Hello%2C+I+Am+Ryan+Kok" /> </div>
   <p align="center">💻 Software Engineer | 🚀 Full-Stack Development | 💡 Problem Solver | 😺 Cat Dad</p>
